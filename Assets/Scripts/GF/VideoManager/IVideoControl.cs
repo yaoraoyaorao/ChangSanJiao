@@ -4,9 +4,10 @@ using UnityEngine;
 
 public interface IVideoControl
 {
-    public string Name { get; }
 
     void Play();
+
+    void Pause();
 
     void Stop();
 

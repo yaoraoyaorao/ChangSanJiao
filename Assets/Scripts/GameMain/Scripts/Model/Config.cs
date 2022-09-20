@@ -23,6 +23,4 @@ public class Config
 
     public string Point3_1 = "03 06 00 06 00 01 A9 E9";
     public string Point3_2 = "03 06 00 06 00 00 68 29";
-
-    public Dictionary<string, string> VideoPath = new Dictionary<string, string>();
 }
